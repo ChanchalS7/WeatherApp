@@ -1,4 +1,4 @@
-<h1 align="center">Weather App</h1> 
+<!-- <h1 align="center">Weather App</h1> 
 
 ![weather app cover](https://user-images.githubusercontent.com/91532881/166434542-76727ccb-0c98-4646-84fb-58e86d7ec3ff.png)
 
@@ -157,4 +157,4 @@ If you want to contact me, you can reach me through below handles.
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! -->
